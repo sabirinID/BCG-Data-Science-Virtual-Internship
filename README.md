@@ -1,1 +1,1 @@
-# BCG-Data-Science-Virtual-Internship
+# BCG Data Science Virtual Internship
